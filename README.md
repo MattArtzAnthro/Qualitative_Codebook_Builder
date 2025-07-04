@@ -1,6 +1,6 @@
 # Matt Artz's Qualitative Codebook Builder
 
-> Created and maintained by **Matt Artz**
+> Created and maintained by [**Matt Artz**](https://www.mattartz.me/) 
 
 A Jupyter Notebook for generating qualitative codebooks from unstructured textual data using LLM-assisted methods.
 
@@ -21,7 +21,7 @@ Full details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creative
 
 If you use this in your work, please cite:
 
-> Artz, Matt. *Mattartzanthro/qualitative_codebook_builder: V.1.0.1*. Software. Zenodo. July 4, 2025. https://doi.org/10.5281/zenodo.15808613.
+> Artz, Matt. 2025. *Qualitative Codebook Builder*. Software. Zenodo. https://doi.org/10.5281/zenodo.15808613.
 
 <pre>
 ```bibtex
