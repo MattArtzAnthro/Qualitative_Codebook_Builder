@@ -19,8 +19,7 @@ Full details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creative
 
 If you use this in your work, please cite:
 
-> Artz, Matt. 2025. *Qualitative Codebook Builder*. Software. Zenodo. [https://doi.org/10.5281/zenodo.15808613.](https://doi.org/10.5281/zenodo.15809113)
-
+> Artz, Matt. 2025. *Qualitative Codebook Builder*. Software. Zenodo. [https://doi.org/10.5281/zenodo.15808612] (https://doi.org/10.5281/zenodo.15808612)
 <pre>
 ```bibtex
 @software{artz_2025_codebook,
@@ -29,7 +28,7 @@ If you use this in your work, please cite:
   year         = {2025},
   version      = {1.0.0},
   url          = {https://github.com/MattArtzAnthro/qualitative-codebook-builder},
-  doi          = {https://doi.org/10.5281/zenodo.15809113},
+  doi          = {https://doi.org/10.5281/zenodo.15808612},
   license      = {CC-BY-NC-4.0}
 }
 </pre>
