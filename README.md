@@ -6,7 +6,7 @@ A Jupyter Notebook for generating qualitative codebooks from unstructured textua
 
 ## About
 
-This project bridges anthropology and computation by providing a semi-automated process for building qualitative codebooks. It begins with text preprocessing and segmentation, then uses a large language model to suggest descriptive codes and definitions. The output includes a structured codebook and a quality report, allowing for further review, refinement, and reuse across studies.
+This notebook implements a system for extracting and developing research codebooks from source materials (academic articles, reports, methodology guides) following established methodological best practices. The system extracts theoretical constructs, methodological approaches, and key concepts to build a codebook suitable for peer review.
 
 Designed with techno-anthropology in mind, this tool supports researchers aiming to incorporate computational methods into their qualitative workflows while retaining human interpretive oversight.
 
