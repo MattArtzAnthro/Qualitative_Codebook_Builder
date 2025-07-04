@@ -1,6 +1,4 @@
-# Matt Artz's Qualitative Codebook Builder
-
-> Created and maintained by [**Matt Artz**](https://www.mattartz.me/) 
+# Qualitative Codebook Builder
 
 A Jupyter Notebook for generating qualitative codebooks from unstructured textual data using LLM-assisted methods.
 
