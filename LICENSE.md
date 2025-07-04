@@ -1,4 +1,4 @@
-# Matt Artz’s Qualitative Codebook Builder
+# Qualitative Codebook Builder
 
 © 2025 Matt Artz — Creative Commons **CC-BY-NC**
 
