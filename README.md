@@ -13,13 +13,14 @@ Designed with techno-anthropology in mind, this tool supports researchers aiming
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. You may remix, adapt, and build upon the material for non-commercial purposes, provided you credit *Matt Artz* and link to the repository.  
+
 Full details: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Citation
 
 If you use this in your work, please cite:
 
-> Artz, Matt. 2025. *Qualitative Codebook Builder*. Software. Zenodo. [https://doi.org/10.5281/zenodo.15808612] (https://doi.org/10.5281/zenodo.15808612)
+> Artz, Matt. 2025. *Qualitative Codebook Builder*. Software. Zenodo. https://doi.org/10.5281/zenodo.15808612
 <pre>
 ```bibtex
 @software{artz_2025_codebook,
