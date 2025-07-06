@@ -2,6 +2,8 @@
 
 Created by [Matt Artz](https://www.mattartz.me/) — Advancing AI Anthropology through computational approaches to qualitative research.
 
+
+
 <br>
 
 ---
@@ -69,20 +71,28 @@ This tool is part of a growing suite of computational resources for anthropologi
 
 <br>
 
-## License & Attribution
+## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. You may remix, adapt, and build upon the material for non-commercial purposes, provided you credit Matt Artz and link to the repository.
 
 **Full license details**: https://creativecommons.org/licenses/by-nc/4.0/
 
+## Attribution   
+
+If you use or adapt this project in your work, please cite:
+
+
+> Built with the Qualitative Codebook Builder (Matt Artz, 2025) — https://github.com/MattArtzAnthro/Qualitative_Codebook_Builder
+
+
 ## Citation
 
-If you use this tool in your research, please cite:
+If you use this tool in your academic research, please cite:
 
-```
-Artz, Matt. 2025. Qualitative Codebook Builder. Software.
+
+> Artz, Matt. 2025. Qualitative Codebook Builder. Software.
 Zenodo. https://doi.org/10.5281/zenodo.15808612
-```
+
 
 ## Refrences
 Artz, Matt. Forthcoming. “AI Anthropology: The Future of Applied Anthropological Practice.” In Routledge Handbook of Applied Anthropology, edited by Christina Wasson, Edward B. Liebow, Karine L. Narahara, Ndukuyakhe Ndlovu, and Alaka Wali. New York: Routledge.
