@@ -2,7 +2,7 @@ cff-version: 1.0.0
 message: "If you use the Qualitative Codebook Builder, please cite it as shown below."
 title: "Qualitative Codebook Builder"
 version: 1.0.0            
-date-released: 2025-08-02  
+date-released: 2025-07-04  
 doi: "https://doi.org/10.5281/zenodo.15808612"                    
 url: "https://github.com/MattArtzAnthro/Qualitative_Codebook_Builder"
 authors:
