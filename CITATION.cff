@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use the Qualitative Codebook Builder, please cite it as shown below."
+title: "Qualitative Codebook Builder"
+version: 1.0.0            
+date-released: 2025-08-02  
+doi: "https://doi.org/10.5281/zenodo.15808612"                    
+url: "https://github.com/MattArtzAnthro/Qualitative_Codebook_Builder"
+authors:
+  - family-names: "Artz"
+    given-names: "Matt"
+    orcid: "https://orcid.org/0000-0002-3822-1429"
